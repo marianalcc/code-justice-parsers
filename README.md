@@ -14,7 +14,7 @@ This repository contains **parsers** — small programs that read and clean up l
 - 🌎 Inter-American Court of Human Rights
 - 🌍 African Court on Human and Peoples' Rights
 
-Each parser helps pull out important facts from legal rulings:  
+Each parser helps pull out key pointsfrom legal rulings:  
 📅 case name, date, violated rights, affected groups, etc.
 
 ---
@@ -48,8 +48,7 @@ code-justice-parsers/
 
 ## 💡 Mission
 
-> *We believe justice should be searchable, accessible, and understandable to everyone. This project makes human rights law readable by machines — and usable by people.*
-
+>
 ---
 
 ## 🌱 Next Steps
